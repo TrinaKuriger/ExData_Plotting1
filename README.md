@@ -1,3 +1,11 @@
+## Additional Notes added for my submission of Course Project 1
+
+In order to run the code included in this repository, you must have the 
+lubridate package installed.
+
+Also, you must download the household_power_consumption.txt file described 
+below and place it in your working directory. 
+
 ## Introduction
 
 This assignment uses data from
